@@ -23,8 +23,9 @@ estou atualmente usando o proprio https://scryfall.com pra pegar as artes em qua
 se a carta tiver tradução oficial apenas importo no https://cardconjurer.app/ atualizando apenas a imagem, se não faço a tradução manualmente ou através do site https://www.decksage.com.br/
 
 
-> Comparação
-> ![aer-14-dawnfeather-eagle](https://github.com/user-attachments/assets/ba9b15ce-f4d7-4ca5-bc5f-9a0db83f1465)<img width="2010" height="2814" alt="Águia-pena-d&#39;aurora" src="https://github.com/user-attachments/assets/d442bbb4-574f-463c-8d4c-7442dbdf135a" />
+## Comparação
+
+ ![aer-14-dawnfeather-eagle](https://github.com/user-attachments/assets/ba9b15ce-f4d7-4ca5-bc5f-9a0db83f1465)<img width="2010" height="2814" alt="Águia-pena-d&#39;aurora" src="https://github.com/user-attachments/assets/d442bbb4-574f-463c-8d4c-7442dbdf135a" />
 
 
 
