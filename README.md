@@ -6,8 +6,6 @@ Este projeto nasceu da necessidade de elevar a qualidade das partidas de **Magic
 
 * **Traduções Inéditas:** Localização para o Português Brasileiro (PT-BR) de cartas que nunca receberam uma versão física oficial (sets antigos, coleções especiais ou suplementares).
 * **Remasterização em Alta Definição:** Recriação digital de cartas que possuem imagens de baixa resolução ou scans antigos no Scryfall/Gatherer, utilizando templates modernos e artes em alta fidelidade.
-* **Padronização Técnica:** Garantir que o texto das cartas siga rigorosamente o glossário oficial da Wizards of the Coast, mantendo a coesão com as regras do jogo.
-
 ---
 
 ## 🛠️ Estrutura do Repositório
@@ -21,8 +19,13 @@ As imagens são hospedadas de forma otimizada para serem chamadas por scripts ex
 ---
 
 ## Como Fazer
-estou atualmente usando o proprio scryfall.com pra pegar as artes em qualidade alta da carta em inglês
+estou atualmente usando o proprio https://scryfall.com pra pegar as artes em qualidade alta da carta em inglês em "download art crop"
 se a carta tiver tradução oficial apenas importo no https://cardconjurer.app/ atualizando apenas a imagem, se não faço a tradução manualmente ou através do site https://www.decksage.com.br/
+
+
+> Comparação
+> ![aer-14-dawnfeather-eagle](https://github.com/user-attachments/assets/ba9b15ce-f4d7-4ca5-bc5f-9a0db83f1465)<img width="2010" height="2814" alt="Águia-pena-d&#39;aurora" src="https://github.com/user-attachments/assets/d442bbb4-574f-463c-8d4c-7442dbdf135a" />
+
 
 
 ## 🤝 Contribuições
