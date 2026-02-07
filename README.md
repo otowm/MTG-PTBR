@@ -1,8 +1,8 @@
 # MTG-PTBR 🃏✨
-
+[Tradutor pra importar no Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=3660220216) 
 Este projeto nasceu da necessidade de elevar a qualidade das partidas de **Magic: The Gathering** em plataformas digitais (como o Tabletop Simulator). O repositório foca em dois pilares que muitas vezes são negligenciados pelas bases de dados convencionais:
 
-[Tradutor pra importar no Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=3660220216) 
+
 ## 🎯 Objetivos do Projeto
 
 * **Traduções Inéditas:** Localização para o Português Brasileiro (PT-BR) de cartas que nunca receberam uma versão física oficial (sets antigos, coleções especiais ou suplementares).
